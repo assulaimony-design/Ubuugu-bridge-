@@ -1,0 +1,6 @@
+{
+  "name": "UbuntuBridge Financial",
+  "description": "Inclusive fintech platform providing low-interest community microloans and transparent cross-border transactions for underbanked African and American communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
